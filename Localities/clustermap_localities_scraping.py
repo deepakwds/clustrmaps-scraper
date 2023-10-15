@@ -19,8 +19,8 @@ import re
 
 global driver;
 
-chromedriver = 'C:/Users/deepak/Desktop/chromedriver/118/chromedriver1.exe';
-# Ultrasurf = 'C:/Users/deepak/Desktop/chromedriver/Ultrasurf/Ultrasurf181-1.crx';
+chromedriver = 'chromedriver.exe';
+# Ultrasurf = 'Ultrasurf.crx';
 time.sleep(5)
 
 def junck(value):
