@@ -32,4 +32,4 @@ python clustermap_FIPS_scraping.py
 
 **Contribution**
 
-[Buy me a coffee](https://www.buymeacoffee.com/deepakwds7)https://www.buymeacoffee.com/deepakwds7
+[Buy me a coffee](https://www.buymeacoffee.com/deepakwds7)
